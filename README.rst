@@ -5,6 +5,27 @@
 Introduction
 ============
 
+::
+
+   Ever since the dawn of civilisation, people have not ben conten to
+   see events as unconnected and inexplicable.
+
+   They have craved an understanding of the underlying order in the
+   world.
+
+   Today we still yearn to know why we are here and where we came
+   from.
+
+   Humanity's deepest desire for knowledge is justification enough for
+   our continuing quest.
+
+   And our goal is nothing less than a complete description pf the
+   universe we live in.
+
+   Stephen W. Hawking, A Brief History of Time.
+
+So here we go..
+
 Global Climate Simulation by the pool
 =====================================
 
