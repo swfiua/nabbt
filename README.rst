@@ -26,6 +26,12 @@ Introduction
 
 So here we go..
 
+The importance of an open mind in science.
+
+And being prepared to be spectacularly wrong, as that is also the only
+way to be spectacularly right.
+
+
 Global Climate Simulation by the pool
 =====================================
 
